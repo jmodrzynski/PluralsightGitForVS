@@ -17,6 +17,10 @@ namespace Git_Demo_2
             // more changes
 
             // last change before push
+
+            // Feature 1.1 change
+
+            // Addtional feature 1.1 change
         }
     }
 }
