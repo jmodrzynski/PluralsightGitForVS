@@ -13,6 +13,8 @@ namespace Git_Demo_2
             // Local changes
 
             // some more changes
+
+            // more changes
         }
     }
 }
